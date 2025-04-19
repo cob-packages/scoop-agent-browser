@@ -1,29 +1,29 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/co-browser/agent-browser/releases/download/v1.0.0/agent-browser-v1.0.0-windows-386.zip",
+            "url": "https://github.com/co-browser/agent-browser/releases/download/v1.1.0/agent-browser-v1.1.0-windows-386.zip",
             "bin": [
                 "agent-browser.exe"
             ],
-            "hash": "a2d0865db24062d0628fd683c7d2519917ae0fcfe6238345db30dfdabbf40087"
+            "hash": "a871e50927ead9c8d8c598331b9a245ef7e04bc9530846f798f0bfe8b9663bda"
         },
         "64bit": {
-            "url": "https://github.com/co-browser/agent-browser/releases/download/v1.0.0/agent-browser-v1.0.0-windows-amd64.zip",
+            "url": "https://github.com/co-browser/agent-browser/releases/download/v1.1.0/agent-browser-v1.1.0-windows-amd64.zip",
             "bin": [
                 "agent-browser.exe"
             ],
-            "hash": "f7042a9ac994404de2ff7a5c1fce2c4dfa4a53cfe77f3a2a392718ccd6f81496"
+            "hash": "537131aba689f3c1d8df8970b546e7566dbae319d2bdbcd11f89aa6e5f0eff1d"
         },
         "arm64": {
-            "url": "https://github.com/co-browser/agent-browser/releases/download/v1.0.0/agent-browser-v1.0.0-windows-arm64.zip",
+            "url": "https://github.com/co-browser/agent-browser/releases/download/v1.1.0/agent-browser-v1.1.0-windows-arm64.zip",
             "bin": [
                 "agent-browser.exe"
             ],
-            "hash": "5d7be9dda1b5c901ec2067e02ebc62c1aa64c8a7d87ae04534189cf59f3bda8d"
+            "hash": "803ec04b9b6acd4e3fe45aae986fa5126bf9db12d7838889fa8adfef8d9a05af"
         }
     },
     "homepage": "https://cobrowser.xyz",
     "license": "MIT",
-    "description": "a browser for agents"
+    "description": "Performant MCP aggregator"
 }
